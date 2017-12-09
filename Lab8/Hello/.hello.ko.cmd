@@ -1,0 +1,1 @@
+cmd_/home/modric/github/BUAASoft-OS-Labs/Lab8/Hello/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/modric/github/BUAASoft-OS-Labs/Lab8/Hello/hello.ko /home/modric/github/BUAASoft-OS-Labs/Lab8/Hello/hello.o /home/modric/github/BUAASoft-OS-Labs/Lab8/Hello/hello.mod.o ;  true
