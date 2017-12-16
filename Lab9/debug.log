@@ -1,0 +1,6 @@
+[1216/161510:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[1216/161510:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1216/161510:INFO:CONSOLE(0)] "Failed to decode downloaded font: http://m.blog.csdn.net/static/fonts/iconfont.eot?1512613120761", source: http://m.blog.csdn.net/xumin330774233/article/details/40371603 (0)
+[1216/161510:INFO:CONSOLE(0)] "Failed to decode downloaded font: http://m.blog.csdn.net/static/fonts/iconfont.eot?1512613120761", source: http://m.blog.csdn.net/xumin330774233/article/details/40371603 (0)
+[1216/161510:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1216/161510:ERROR:window_impl.cc(115)] Failed to unregister class Chrome_WidgetWin_0. Error = 1412
